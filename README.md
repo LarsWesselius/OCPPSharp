@@ -1,6 +1,8 @@
 # OCPPSharp
 Super simple OCPP 2.0(.1) server for use in a web app.
 
+**Source is not super nice, complete or anything of the sort, just needed to get something working and thought I'd share it on here**.
+
 ```csharp
 using OCPPSharp;
 using OCPPSharp.Broker;
